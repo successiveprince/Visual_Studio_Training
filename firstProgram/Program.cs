@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Factorial Program
+
+using System;
 
 namespace Practice
 {
