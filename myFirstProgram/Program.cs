@@ -1,4 +1,6 @@
-﻿using System;
+﻿//First Program in Visual Studio
+
+using System;
 
 namespace myFirstProgram
 {
